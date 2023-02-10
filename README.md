@@ -1,15 +1,13 @@
-### Hi there 👋. I am Vaishak K and welcome to my mini dev world!
+### Hi there 👋. I am V S SRINIDHI and welcome to my mini dev world!
 
 - I am currently working as a Frontend Engineer.
 - On a mission to excel in all frontend tools and frameworks.
 - An open source enthusiast who aspires to be a frontend architect.
 - Also have interests in UX and Design space. 
-- Reach me at: <a href="mailto:vaishakmnglr@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+- Reach me at: <a href="mailto:srinidhivs28@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 - For one's who want to connect with me:
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/vaishak-k-30a909191/)
-[![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee)](https://twitter.com/noob_devv) 
-[![](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/vaishak10) 
-- Check out my 2nd account for art works made by code, mini projects and notes materials: [Vaishak KS](https://github.com/VaishakKS)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/v-s-srinidhi-2803/)
+- Check out my 2nd account for art works made by code, mini projects and notes materials: [V S SRINIDHI](https://github.com/SRINIDHI-VS?tab=repositories)
 
 ## What I work with
 <p>
